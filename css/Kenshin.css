@@ -1,0 +1,34 @@
+        .arredondar {
+            margin-top: 2em!important;
+            margin-left: 2%!important;
+            border-radius: 50px!important;
+        }
+        
+        .CorBotaoLimpar {
+            background-color: #fff;
+            color: #004564;
+            border: 1px solid #004564!important;
+        }
+        
+        .CorLabel {
+            font-weight: bold;
+            color: #005A9C;
+            font-size: 0.7em;
+        }
+        
+        .CorBotaoBuscar {
+            background-color: #004564;
+            color: #fff;
+        }
+        
+        .marginbuttonfiltros {
+            margin-right: -50px!important;
+        }
+
+        .btn-sm {
+
+            padding: 2px 31px;
+           
+            /* define values in pixels / Percentage or em. whatever suits 
+               your requirements */
+        }
